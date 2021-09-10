@@ -1,0 +1,3 @@
+- Ahoy! I'm @brooke-k, a software engineering student at the University of Calgary
+- A lot of the projects you'll find in my profile were completed for school, though I have a few personal projects on here too
+- There's a lot I have to learn still - keep an eye out to see what I'm up to and doing next!
