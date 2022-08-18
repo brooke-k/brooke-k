@@ -6,7 +6,7 @@
 
  🌻 I'm passionate about using software as a tool for increasing accessability to knowledge for folks from all walks of life. Moving technology forward means making sure that everyone has the tools to keep up - I want to be part of that shift and am always looking for ways to learn from others and support the great people working around me. 
 
- 👩‍💻 You can find me working up and down the development stack, but I excel at low-level languages and am most at home in C and C++, in addition to writing bash-scripts on Windows and Ubunutu to make daily life a bit easier. When I'm not working on assignments, you can find me using computers as tools for making art like 3D renders or digital collages. 
+ 👩‍💻 You can find me working up and down the development stack, but I excel at low-level languages and am most at home in C and C++, in addition to writing bash-scripts on Windows and Ubuntu to make daily life a bit easier. When I'm not working on assignments, you can find me using computers as tools for making art like 3D renders or digital collages. 
 
  ##### I work best with
 
