@@ -16,7 +16,7 @@
 ## What I'm doing right now
 - Working on developing automatic semantic segmentation models for segmenting MR and CT images of stroke, with the goal of allowing quantitative values to be used in real-world diagnostic and treatment settings for stroke
 - Investigating methods to improve 3d image visualization and analysis using unconventional image processing techniques
-- Likely drinking coffee
+- Birdwatching
 
  ##### I work best with
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
