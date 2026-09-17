@@ -1,5 +1,5 @@
 ### Hello, there!
-#### I'm Brooke Kindleman (she/her), a software engineer and biomedical engineering student researching ML for medical imaging
+#### I'm Brooke Kindleman (she/her), a software engineer and data scientist passionate about improving data visualisation, image analysis, and computer graphics.
 
 ## Formal education
 - BSc. Software Engineering, University of Calgary, 2024
