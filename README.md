@@ -4,7 +4,8 @@
 ## Formal education
 - BSc. Software Engineering, University of Calgary, 2024
   - Unofficial specialization in computer engineering and computer graphics
-- Currently working on my MSc. in Biomedical Engineering at the University of Calgary
+- MSc in Biomedical Engineering, University of Calgary, 2026
+  - Specialised in AI/ML and medical imaging
 
 ## Informal Education
 - 2000+ hours (and counting) in Blender, making 3D models for art and game development
@@ -18,10 +19,10 @@
 - Likely drinking coffee
 
  ##### I work best with
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ##### I use these for various hobbies
@@ -35,4 +36,3 @@
 ##### You can find me here
 [AI2Lab](https://www.ai2lab.ca/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]( www.linkedin.com/in/brooke-kindleman)
-[My website](https://www.brooke-kindleman.com/)
